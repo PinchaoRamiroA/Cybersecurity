@@ -41,7 +41,7 @@ Solo debes selecciónar la ISO y te aparecera el login que es por defecto
 user: kali
 password: kali
 
-![Kali Instalada](laboratory/Evidence/kali_instalada.jpeg)
+![Kali Instalada](Evidence/kali_instalada.jpeg)
 
 - Opción alternativa (instalar desde ISO)
 

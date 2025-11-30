@@ -57,7 +57,7 @@ Abrir en el navegador:
 http://localhost:8080
 
 
-![Ingreso a DVWA](laboratory/Evidence/DVWA_ingreso.png)
+![Ingreso a DVWA](Evidence/DVWA_ingreso.png)
 
 Credenciales por defecto
 usuario: admin

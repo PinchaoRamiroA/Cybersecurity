@@ -58,5 +58,5 @@ A continuación se describen los archivos esenciales del proyecto, organizados p
 - Scripts_kali/
 	Carpeta con scripts útiles para automatizar tareas desde Kali Linux: reconocimiento, escaneo, enumeración y explotación básica tanto para Metasploitable como para los contenedores.
 
-- Additional.md
-	Recomendaciones generales, buenas prácticas, configuraciones opcionales y ampliaciones del laboratorio.
+- Tests.md
+	Muestras de algunas pruebas y ejecuciones dentro del laboratorio
